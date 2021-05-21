@@ -18,5 +18,5 @@
   #### 5. sample_submission.csv(288 KB)
   + 출처: https://www.nist.gov/itl/products-and-services/emnist-dataset
 + Model
-  + ImageDataGenerator
+  + OpenCV : 알파벳 데이터 색상 및 잡음 제거
   + resnet
