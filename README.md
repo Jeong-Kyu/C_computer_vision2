@@ -19,4 +19,4 @@
   + 출처: https://www.nist.gov/itl/products-and-services/emnist-dataset
 + Model
   + OpenCV : 알파벳 데이터 색상 및 잡음 제거
-  + resnet
+  + resnet기반 Conv2d 
